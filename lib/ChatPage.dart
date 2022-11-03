@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:scaffold_gradient_background/scaffold_gradient_background.dart';
 import 'package:untitled1/MainPage.dart';
-import 'package:untitled1/MainPage.dart';
 
 class ChatPage extends StatefulWidget{
   const ChatPage({super.key});
